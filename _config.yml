@@ -1,5 +1,3 @@
-highlighter: pygments
-markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
@@ -28,3 +26,7 @@ city: Edinburgh
 country: United Kingdom
 google_analytics: UA-69300817-1
 
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
