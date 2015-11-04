@@ -7,10 +7,12 @@ safe: true
 url: http://biomadeira.github.io/vitae
 author: Fábio Madeira
 
+gems: [jekyll-paginate]
+
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /
+baseurl: /test-for-psw/
 title: Chris Turner's Resume
 name: Chris Turner
 email: christurner@me.com
